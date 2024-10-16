@@ -1,2 +1,2 @@
-# Reconhecimento_de_Fala
+# Reconhecimento de Fala
 Programa em java para reconhecimento de fala
